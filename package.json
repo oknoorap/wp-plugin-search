@@ -1,0 +1,23 @@
+{
+  "name": "wp-plugin-search",
+  "version": "1.0.0",
+  "description": "Search WordPress Plugin in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oknoorap/wp-plugin-search.git"
+  },
+  "keywords": [
+    "wordpress",
+    "wordpress-plugin"
+  ],
+  "author": "oknoorap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oknoorap/wp-plugin-search/issues"
+  },
+  "homepage": "https://github.com/oknoorap/wp-plugin-search#readme"
+}
