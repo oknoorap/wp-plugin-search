@@ -1,2 +1,2 @@
-# wp-plugin-search
-:mag: Search WordPress Plugin in NodeJS
+# :mag: WordPress Plugin Search
+Search WP Plugin via WordPress API
