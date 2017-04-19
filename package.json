@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/oknoorap/wp-plugin-search/issues"
   },
-  "homepage": "https://github.com/oknoorap/wp-plugin-search#readme"
+  "homepage": "https://github.com/oknoorap/wp-plugin-search#readme",
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "xo": "^0.18.1"
+  },
+  "xo": {
+    "esnext": true,
+    "space": true,
+    "semicolon": false
+  }
 }
