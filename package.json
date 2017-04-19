@@ -28,5 +28,8 @@
     "esnext": true,
     "space": true,
     "semicolon": false
+  },
+  "dependencies": {
+    "axios": "^0.16.1"
   }
 }
