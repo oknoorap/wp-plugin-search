@@ -19,6 +19,9 @@ const defaultFields = {
 }
 
 module.exports = (query, options = {}) => new Promise((resolve, reject) => {
+  if (query === '' || typeof query !== 'string') {
+    resolve(new Error('Invalid Query.'))
+  }
   options = Object.assign(defaultOptions, options)
   options.fields = Object.assign(defaultFields, options.fields)
   options.search = query
