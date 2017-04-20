@@ -34,7 +34,8 @@ Default options:
 | **page** | 1 |
 | **per_page** | 30 |
 | **locale** | 'en_US' |
-| **fields** | **added** `true` |
+| **fields** | Default Fields (`Object`) |
+| | **added** `true` |
 | | **icon** `false` |
 | | **author** `true` |
 | | **author_profile** `true` |
