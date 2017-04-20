@@ -30,5 +30,7 @@
     "semicolon": false
   },
   "dependencies": {
+    "jssr": "^1.0.2",
+    "request": "^2.81.0"
   }
 }
