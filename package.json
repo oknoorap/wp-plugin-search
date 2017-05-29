@@ -1,6 +1,6 @@
 {
   "name": "wp-plugin-search",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Search WordPress Plugin in NodeJS",
   "main": "index.js",
   "scripts": {
